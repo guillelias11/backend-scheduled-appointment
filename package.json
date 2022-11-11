@@ -12,7 +12,7 @@
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "JHON JAIRO CORTES PAREDES",
+  "author": "GUILLERMO ELIAS NELSON ALBARRACIN",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.0",
