@@ -44,7 +44,7 @@ app.use("/api/especialidades", especialidadesRoutes);
 app.use("/api/usuarios", usuariosRoutes);
 app.use("/api/agendacitas", agendaCitasRoutes);
 
-const PORT = process.env.PORT || 4000;
+const PORT = process.env.PORT || 59708;
 
 app.listen(PORT, () => {
     console.log(`servidor corriendo en el puerto ${PORT}`);
