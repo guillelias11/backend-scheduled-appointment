@@ -1,5 +1,5 @@
 const dominios = {
-    ROL_MEDICO_ID: "6355d29fb54836ecf24de4cc"
+    ROL_MEDICO_ID: "636eaa73092ca9229aff744a"
 }
 
 export default dominios;
